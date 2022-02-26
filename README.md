@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crazzeex
 - 👀 I’m interested in learning python! 
-- 🌱 I’m currently learning python and cybersecurity :_
+- 🌱 I’m currently learning python and cybersecurity :)
 
 <!---
 crazzeex/crazzeex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
